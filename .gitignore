@@ -1,1 +1,4 @@
 *.swp
+annotations/
+py-pascalpart/
+__pycache__/
