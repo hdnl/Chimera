@@ -39,5 +39,6 @@
   },
   "resolutions": {
     "serialize-javascript": "^3.1.0"
-  }
+  },
+  "proxy": "http://localhost:5000"
 }
